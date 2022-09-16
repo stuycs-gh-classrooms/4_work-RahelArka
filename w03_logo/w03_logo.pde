@@ -1,0 +1,13 @@
+size(300,300);
+background(#FFFFFF);
+fill(#030303);
+ellipse(150,150,150,100);
+fill(#FFFFFF);
+circle(115,150,70);
+circle(185,150,70);
+fill(#00ECF2);
+square(105,145,15);
+square(180,145,15);
+fill(#FF9100);
+stroke(#FF9100);
+triangle(158,180,150,190,142,180);
