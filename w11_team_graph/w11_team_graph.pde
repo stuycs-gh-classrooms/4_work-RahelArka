@@ -1,3 +1,5 @@
+// TEAM HoneyBuns: Rahel Arka, Hannah Kim, Vienna Tse, Phyllix Qin
+
 int dotDiameter;
 int angle;
 int roseRadius;
