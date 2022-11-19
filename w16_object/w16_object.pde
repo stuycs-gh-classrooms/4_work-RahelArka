@@ -65,3 +65,4 @@ void mousePressed() {
       println(score);
  }//hit
 }//mousePressed
+}
