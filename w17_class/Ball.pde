@@ -3,6 +3,7 @@ class Ball {
   int cx, cy;
   int xvelocity, yvelocity;
   int radius;
+  color c;
 
   //constructor
   Ball() {
